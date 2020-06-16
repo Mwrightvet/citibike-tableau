@@ -2,13 +2,13 @@
 
 ## Problem
 
-[New York Citi Bike](https://en.wikipedia.org/wiki/Citi_Bike) Responsible for overseeing the largest bike sharing program in the United States. Generate regular reports for city officials looking to publicize and improve the city program.
+[New York Citi Bike](https://en.wikipedia.org/wiki/Citi_Bike) Citibike is the largest bike sharing program in the United States. This project involves generating regular reports for city officials looking to publicize and improve the city program. 
 
 Datasets: Bike data is collected, organized, and made public on the [Citi Bike Data](https://www.citibikenyc.com/system-data) webpage.
 
 ## Task
 
-**Design 2-5 visualization for City Officials and Answer the following Questions and explore the data
+**Design 2-5 visualization for City Officials and Answer the following Questions and explore the data for decision makers 
 
 1. What are the peak hours in which bikes are used ?
 2. What are the top 10 stations in the city for starting a journey?
