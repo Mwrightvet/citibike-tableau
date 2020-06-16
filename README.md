@@ -1,6 +1,6 @@
 # Citi Bike Analysis using Tableau
 
-### Problem
+## Problem
 
 [New York Citi Bike](https://en.wikipedia.org/wiki/Citi_Bike) Responsible for overseeing the largest bike sharing program in the United States. Generate regular reports for city officials looking to publicize and improve the city program.
 
@@ -28,7 +28,7 @@ Datasets: Bike data is collected, organized, and made public on the [Citi Bike D
 
 * The map includes a write-up unveiling any trends that were noticed during analysis.
 
-# Resulting Presentation:  [Presentation](https://public.tableau.com/views/Citi-Bike-Analysis-2019-MW/Dashboard1?:display_count=y&:origin=viz_share_link)
+## Resulting Presentation:  [Presentation](https://public.tableau.com/views/Citi-Bike-Analysis-2019-MW/Dashboard1?:display_count=y&:origin=viz_share_link)
 
 1. (Advanced) Multiple dynamic maps that shows the popular stations by peak time and the demographic of riders that use each station by time of year.  
 
