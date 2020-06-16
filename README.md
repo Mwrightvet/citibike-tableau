@@ -8,19 +8,14 @@ Datasets: Bike data is collected, organized, and made public on the [Citi Bike D
 
 ## Task
 
-**Design 2-5 visualizations.
+**Design 2-5 visualization for City Officials and Answer the following Questions and explore the data
 
-**Answer the following Questions
-
-* What are the peak hours in which bikes are used ?
-
-* What are the top 10 stations in the city for starting a journey?
-
-* What are the top 10 stations in the city for ending a journey?  
-
-* What is the gender breakdown of active participants (Male v. Female)?
-
-* How does the average trip duration change by age?
+1. What are the peak hours in which bikes are used ?
+2. What are the top 10 stations in the city for starting a journey?
+3. What are the top 10 stations in the city for ending a journey?  
+4. What is the gender breakdown of active participants (Male v. Female)?
+4. How does the average trip duration change by age?
+5. Any additional findings. 
 
 **Advanced Option**
 
@@ -28,12 +23,17 @@ Datasets: Bike data is collected, organized, and made public on the [Citi Bike D
 
 **City officials would also like to see one of the following visualizations:**
 
-* **Basic:** A static map that plots all bike stations with a visual indication of the most popular locations to start and end a journey with zip code data overlaid on top.
-
-* **Advanced:** A dynamic map that shows how each station's popularity changes over time (by month and year).  
+1. (Basic) A static map that plots all bike stations with a visual indication of the most popular locations to start and end a journey with zip code data overlaid on top.
+2. (Advanced) A dynamic map that shows how each station's popularity changes over time (by month and year).  
 
 * The map includes a write-up unveiling any trends that were noticed during analysis.
 
 # Resulting Presentation:  [Presentation](https://public.tableau.com/views/Citi-Bike-Analysis-2019-MW/Dashboard1?:display_count=y&:origin=viz_share_link)
 
-<div class='tableauPlaceholder' id='viz1592332329943' style='position: relative'><noscript><a href='#'><img alt=' ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Ci&#47;Citi-Bike-Analysis-2019-MW&#47;Dashboard1&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='path' value='views&#47;Citi-Bike-Analysis-2019-MW&#47;Dashboard1?:embed=y&amp;:display_count=y' /> <param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Ci&#47;Citi-Bike-Analysis-2019-MW&#47;Dashboard1&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /></object></div>                 
+1. (Advanced) Multiple dynamic maps that shows the popular stations by peak time and the demographic of riders that use each station by time of year.  
+
+
+<div class='tableauPlaceholder' id='viz1592332329943' style='position: relative'><noscript><a href='#'><img alt=' ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Ci&#47;Citi-Bike-Analysis-2019-MW&#47;Dashboard1&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='path' value='views&#47;Citi-Bike-Analysis-2019-MW&#47;Dashboard1?:embed=y&amp;:display_count=y' /> <param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Ci&#47;Citi-Bike-Analysis-2019-MW&#47;Dashboard1&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /></object></div>   
+
+
+<div class='tableauPlaceholder' id='viz1592333257396' style='position: relative'><noscript><a href='#'><img alt=' ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Ci&#47;Citi-Bike-Analysis-2019-MW&#47;Dashboard2&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='path' value='views&#47;Citi-Bike-Analysis-2019-MW&#47;Dashboard2?:embed=y&amp;:display_count=y' /> <param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Ci&#47;Citi-Bike-Analysis-2019-MW&#47;Dashboard2&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /></object></div>                <script type='text/javascript'>                    var divElement = document.getElementById('viz1592333257396');                    var vizElement = divElement.getElementsByTagName('object')[0];                    if ( divElement.offsetWidth > 800 ) { vizElement.style.minWidth='1416px';vizElement.style.maxWidth='100%';vizElement.style.minHeight='914px';vizElement.style.maxHeight=(divElement.offsetWidth*0.75)+'px';} else if ( divElement.offsetWidth > 500 ) { vizElement.style.minWidth='1416px';vizElement.style.maxWidth='100%';vizElement.style.minHeight='914px';vizElement.style.maxHeight=(divElement.offsetWidth*0.75)+'px';} else { vizElement.style.minWidth='1416px';vizElement.style.maxWidth='100%';vizElement.style.minHeight='2000px';vizElement.style.maxHeight=(divElement.offsetWidth*1.77)+'px';}                     var scriptElement = document.createElement('script');                    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);                </script>
