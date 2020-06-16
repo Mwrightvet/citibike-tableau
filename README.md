@@ -32,7 +32,7 @@ Datasets: Bike data is collected, organized, and made public on the [Citi Bike D
 
 * **Advanced:** A dynamic map that shows how each station's popularity changes over time (by month and year).  
 
-* The map you choose should also be accompanied by a write-up unveiling any trends that were noticed during your analysis.
+* The map includes a write-up unveiling any trends that were noticed during analysis.
 
 # Resulting Presentation:  [Presentation](https://public.tableau.com/views/Citi-Bike-Analysis-2019-MW/Dashboard1?:display_count=y&:origin=viz_share_link)
 
